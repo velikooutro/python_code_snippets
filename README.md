@@ -1,1 +1,1 @@
-Useful code pieces
+My collection of useful Python scripts
