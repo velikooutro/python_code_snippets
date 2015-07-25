@@ -1,14 +1,15 @@
 '''
-rep.txt =   1,a
-			1,b
-			2,a
-			3,a
-			3,b
-			4,a
-			5,a
-			5,c
-			6,c
-			6,d
+Data contents and format for the file "rep.txt":   
+	1,a
+	1,b
+	2,a
+	3,a
+	3,b
+	4,a
+	5,a
+	5,c
+	6,c
+	6,d
 '''
 
 from pprint import pprint
